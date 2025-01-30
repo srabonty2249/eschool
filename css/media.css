@@ -1,0 +1,164 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+		/*header start*/
+	header{
+		padding: 0;
+	}
+	 .logo{
+		width: 170px;
+}
+     .menu ul li a{
+		margin-bottom: 10px;
+		padding: 0 12px !important;
+}
+      .btn_sign{
+    	margin-left: 0px;
+}
+
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 0 0 60px;
+}
+.b_text{
+	text-align: center;
+}
+.b _img img {
+	margin-bottom: 30px;
+    padding: 0; 
+}
+ .hl {
+ 	  padding: 0;
+      font-size: 30px;
+      line-height: 40px;
+}
+.learn2 {
+	padding: 0;
+    line-height: 24px;
+}
+/*banner end*/
+/*feature start*/
+.c_padd{
+	padding-bottom: 60px;
+}
+.s_feature{
+	margin: 30px 0 0;
+	padding: 45px 0 40px;
+}
+.s_img{
+	width: 55px;
+	height: 75px;
+}
+.s_h2{
+	margin: 15px 0 0;
+	font-size: 20px;
+}
+/*feature end*/
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	header{
+		padding: 0;
+	}
+	 .logo{
+		width: 180px;
+}
+     .menu ul li a{
+		margin-bottom: 10px;
+		padding: 0 12px !important;
+}
+      .btn_sign{
+    	margin-left: 0px;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 0 0 60px;
+}
+.b_text{
+	text-align: center;
+}
+
+.b_img img {
+	margin-bottom: 30px;
+    padding: 0 20px; 
+}
+ .hl {
+ 	  padding: 0 70px 0;
+      font-size: 35px;
+      line-height: 40px;
+}
+.learn2 {
+	padding: 0 50px;
+    line-height: 24px;
+}
+/*banner end*/
+/*feature start*/
+.c_padd{
+	padding-bottom: 60px;
+}
+.s_feature{
+	margin: 30px 0 0;
+	padding: 45px 0 40px;
+}
+.s_img{
+	width: 55px;
+	height: 75px;
+}
+.s_h2{
+	margin: 15px 0 0;
+	font-size: 20px;
+}
+/*feature end*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.menu ul li a{
+		margin-bottom: 5px;
+		padding: 0 12px !important;
+}
+    .btn_sign{
+    	margin-left: 0px;
+}
+/*header end*/
+/*banner start*/
+.b_img{
+	margin-bottom: 30px;
+    padding: 0 45px;
+}
+ .hl {
+ 	  margin: 10px 0;
+      padding-right: 270px;
+}
+.learn2 {
+    padding-right: 40px;
+}
+
+
+/*banner end*/
+/*feature start*/
+.c_padd{
+	padding-bottom: 80px;
+}
+/*feature end*/
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	 .hl {
+      padding-right: 45px;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .hl {
+      padding-right: 45px;
+}
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
